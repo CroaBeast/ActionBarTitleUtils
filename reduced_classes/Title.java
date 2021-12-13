@@ -1,6 +1,7 @@
 package reduced_classes;
 
 import org.bukkit.entity.Player;
+import reduced_classes.Reflection;
 
 import java.lang.reflect.Constructor;
 
