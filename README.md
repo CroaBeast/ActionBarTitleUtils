@@ -5,6 +5,10 @@ Send action bar and title messages very easy.
 1. Select `general_classes` or `reduced_classes`. There are technically the same, the only difference between them are the organization of the methods.
 2. Add all the classes of your selected package into your own package or directly into your project.
 3. Call a new instance of the `Initializer` class into your main class or another class you want to initialize those classes.
+```yaml
+Note: Btw, it's not necessary to have an Initializer class.
+      You can create your own class to call all the others ActionBar and title classes.
+```
 ```java
 Initializer init = new Initializer();
 Player player = Bukkit.getPlayer(name);
