@@ -1,4 +1,4 @@
-package a.custom.package.idk;
+package a.custom.package.lol;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
