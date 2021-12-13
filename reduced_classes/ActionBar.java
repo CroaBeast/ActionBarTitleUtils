@@ -3,6 +3,7 @@ package reduced_classes;
 import net.md_5.bungee.api.*;
 import net.md_5.bungee.api.chat.*;
 import org.bukkit.entity.*;
+import reduced_classes.Reflection;
 
 import java.lang.reflect.*;
 
