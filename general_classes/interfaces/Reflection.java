@@ -1,4 +1,4 @@
-package a.custom.package.lol;
+package general_classes.interfaces;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
